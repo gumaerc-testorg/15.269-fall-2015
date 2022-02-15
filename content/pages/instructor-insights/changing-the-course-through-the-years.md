@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: Changing the Course through the Years
 uid: 59dce143-2b5b-5f01-6a46-8e76b27bb236

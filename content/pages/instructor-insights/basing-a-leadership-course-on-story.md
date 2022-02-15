@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: Basing a Leadership Course on Story
 uid: 1cdacfc5-64d6-ad26-0d17-df969584241c

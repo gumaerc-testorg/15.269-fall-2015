@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: 'Explaining the Core Concept: The Story + Our Story = Managerial Practice'
 uid: 83bdd078-f5e6-bd8f-d28a-23e065019e8d

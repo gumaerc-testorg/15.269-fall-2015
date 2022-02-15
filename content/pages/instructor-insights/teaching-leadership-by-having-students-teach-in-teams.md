@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: Teaching Leadership by Having Students Teach in Teams
 uid: 99236087-ccf6-4d70-bb62-c27393cde3f8

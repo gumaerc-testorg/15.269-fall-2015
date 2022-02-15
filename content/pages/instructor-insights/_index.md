@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8006240c-ad08-b192-b82c-5e5373202344
 ---
@@ -52,20 +54,6 @@ This course can be applied toward graduate elective credits
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tiered fixed furniture tables arranged in a u-shape facing blackboards at the front of the room.]({{< resource_file 95d320f7-def1-617f-d6b0-0574a37f5707 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Class sessions were held in a classroom with tiered seating and AV equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
