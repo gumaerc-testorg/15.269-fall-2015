@@ -1,18 +1,20 @@
 ---
 content_type: page
+description: This section provides study questions for readings and movies assigned
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2
 ---
 
-Required readings and movies for these study questions can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Required readings and movies for these study questions can be found in the {{% resource_link 339083d5-0871-cd11-53f2-c10d9ec732b5 "Readings" %}} section.
 
-1.  [Introduction: The Importance of Story]({{< baseurl >}}/pages/study-materials#I)
-2.  [Ethics and Authority]({{< baseurl >}}/pages/study-materials#E)
-3.  [Leading from my Moral Compass]({{< baseurl >}}/pages/study-materials#L)
-4.  [Social Enterprise]({{< baseurl >}}/pages/study-materials#S)
-5.  [Conclusion: Leading Through Story]({{< baseurl >}}/pages/study-materials#C)
+1.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Introduction: The Importance of Story" "#I" %}}
+2.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Ethics and Authority" "#E" %}}
+3.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Leading from my Moral Compass" "#L" %}}
+4.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Social Enterprise" "#S" %}}
+5.  {{% resource_link 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2 "Conclusion: Leading Through Story" "#C" %}}
 
 {{< anchor "I" >}}{{< /anchor >}}1\. Introduction: The Importance of Story
 --------------------------------------------------------------------------

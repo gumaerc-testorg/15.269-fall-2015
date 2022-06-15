@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the co-teaching component of the course,
+  including rational, logistics, and post-class evaluation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
