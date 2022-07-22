@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: 'In this section, Dr. Leigh Hafrey explains the meaning behind the slogan
+  for 15.269 Leadership Stories: Literature, Ethics, and Authority.  '
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8006240c-ad08-b192-b82c-5e5373202344
 title: 'Explaining the Core Concept: The Story + Our Story = Managerial Practice'
 uid: 83bdd078-f5e6-bd8f-d28a-23e065019e8d
 ---
-
-_In this section, Dr. Leigh Hafrey explains the meaning behind the slogan for 15.269 Leadership Stories: Literature, Ethics, and Authority._
+_In this section, Dr. Leigh Hafrey explains the meaning behind the slogan for_ 15.269 Leadership Stories: Literature, Ethics, and Authority.
 
 I have a slide that is a kind of slogan for the course: "_The_ story plus _our_ story equals managerial practice." It says that we combine the reality of a situation with our own personality, and that largely dictates how we lead the organization to a solution. _The story_ will come out, whatever the situation you confront, whether you as an individual in an organization face a particular challenge or the organization itself faces a crisis. What kind of a story do you tell in order to explain the situation one way or the other? That's "the story".
 
