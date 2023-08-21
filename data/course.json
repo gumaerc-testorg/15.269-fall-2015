@@ -57,8 +57,9 @@
   },
   "learning_resource_types": [
     "Written Assignments",
-    "Activity Assignments"
+    "Activity Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "75c18da5-1dc3-4ef4-8df4-78eecf0b4cc5",
+  "site_uid": "ce9bd4f6-87da-42bf-9759-a43054ac4658",
   "title": "Course Metadata"
 }
