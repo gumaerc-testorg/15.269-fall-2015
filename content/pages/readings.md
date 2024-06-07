@@ -23,9 +23,9 @@ READINGS AND VIEWINGS
 1
 {{< tdclose >}}{{< tdopen >}}
 
-Shaw, Gordon, Robert Brown, et al. "{{% resource_link "def5fda9-c547-4de9-b3b0-50d2ec5c1ddb" "Strategic Stories: How 3M is Rewriting Business Planning" %}}." *Harvard Business Review* 76, no. 3 (1998).
+Shaw, Gordon, Robert Brown, et al. "[Strategic Stories: How 3M is Rewriting Business Planning](https://hbr.org/1998/05/strategic-stories-how-3m-is-rewriting-business-planning)." *Harvard Business Review* 76, no. 3 (1998).
 
-Heyward, DuBose. *The Country Bunny and the Little Gold Shoes*. Houghton Mifflin Books for Young Readers, 1939. ISBN: 9780395159903. \[Preview with {{% resource_link "d8fd6ff3-bcf4-49e8-8f2c-b782fca8b708" "Google Books" %}}\]
+Heyward, DuBose. *The Country Bunny and the Little Gold Shoes*. Houghton Mifflin Books for Young Readers, 1939. ISBN: 9780395159903. \[Preview with [Google Books](http://books.google.com/books?id=aIc5oGa4ClQC&pg=PAfrontcover)\]
 
 Gilbreth, Frank B., and Ernestine Gilbreth Carey. *Cheaper by the Dozen*. Laurel Leaf, 1984. ISBN: 9780553272505. (selections)
 
@@ -34,7 +34,7 @@ Gilbreth, Frank B., and Ernestine Gilbreth Carey. *Cheaper by the Dozen*. Laurel
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "8156a0d1-8aed-41e0-86c5-c83f47cc39c0" "*The Lives of Others*" %}}. Directed by Florian Henckel von Donnersmarck. Color, 137 min. 2006.
+ [*The Lives of Others*](http://www.imdb.com/title/tt0405094/). Directed by Florian Henckel von Donnersmarck. Color, 137 min. 2006.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -48,13 +48,13 @@ O'Flaherty, Liam. "Two Lovely Beasts." In *Two Lovely Beasts, and Other Stories*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "3bf74099-7f3d-4ad6-b438-6f3fed3e5054" "*Mon oncle d'Amérique*" %}}. Directed by Alain Resnais. Black & White, 125 min. 1980.
+ [*Mon oncle d'Amérique*](http://www.imdb.com/title/tt0081176/). Directed by Alain Resnais. Black & White, 125 min. 1980.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "43375b33-6618-4426-bff4-fa024e7028ef" "*Crouching Tiger, Hidden Dragon*" %}}. Directed by Ang Lee. Color, 120 min. 2000.
+ [*Crouching Tiger, Hidden Dragon*](http://www.imdb.com/title/tt0190332/). Directed by Ang Lee. Color, 120 min. 2000.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -66,7 +66,7 @@ Woolf, Virginia. *Mrs. Dalloway*. Mariner Books, 2005. ISBN: 9780156030359.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "7aef9a55-73b8-4975-895d-7e094bd4e78f" "*The Queen*" %}}. Directed by Stephen Frears. Color, 103 min. 2006.
+ [*The Queen*](http://www.imdb.com/title/tt0436697/). Directed by Stephen Frears. Color, 103 min. 2006.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -74,7 +74,7 @@ Woolf, Virginia. *Mrs. Dalloway*. Mariner Books, 2005. ISBN: 9780156030359.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "055ec7c4-008d-40d5-87d9-73afd6e32788" "*Hotel Rwanda*" %}}. Directed by Terry George. Color, 121 min. 2004.
+ [*Hotel Rwanda*](http://www.imdb.com/title/tt0395169/). Directed by Terry George. Color, 121 min. 2004.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -86,7 +86,7 @@ Goldstein, Rebecca. "The Legacy of Raizel Kaidish." In *Strange Attractors*. Pen
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "cfa2596e-8159-453b-bb38-d3509a859f60" "*The Descendants*" %}}. Directed by Alexander Payne. Color, 115 min. 2011.
+ [*The Descendants*](http://www.imdb.com/title/tt1033575/?ref_=fn_al_tt_1). Directed by Alexander Payne. Color, 115 min. 2011.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -118,13 +118,13 @@ Wilson, E. O. *Consilience*. Vintage, 1999, pp. 314–5. ISBN: 9780679768678. (s
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "9d2b8081-f190-4fae-8128-dcd623679f01" "*The Motorcycle Diaries*" %}}. Directed by Walter Salles. Color and Black & White, 126 min. 2004.
+ [*The Motorcycle Diaries*](http://www.imdb.com/title/tt0318462/). Directed by Walter Salles. Color and Black & White, 126 min. 2004.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "073b4f3f-17b8-4398-82c0-3b5bb9c33af4" "*Citizenfour*" %}}. Directed by Laura Poitras. Color, 114 min. 2014.
+ [*Citizenfour*](http://www.imdb.com/title/tt4044364/?ref_=fn_al_tt_1). Directed by Laura Poitras. Color, 114 min. 2014.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -136,13 +136,13 @@ Bolt, Robert. *A Man for All Seasons*. Vintage, 1990. ISBN: 9780679728221.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "791f9871-9dca-4e99-811b-8c6f74c01626" "*Shall We Dance?*" %}}. Directed by Masayuki Suo. Color, 136 min. 1996.
+ [*Shall We Dance?*](http://www.imdb.com/title/tt0117615/). Directed by Masayuki Suo. Color, 136 min. 1996.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "dfcc612d-d9e6-41d7-bc06-06c30a544018" "*Antonia's Line*" %}}. Directed by Marleen Gorris. Color, 102 min. 1995.
+ [*Antonia's Line*](http://www.imdb.com/title/tt0112379/). Directed by Marleen Gorris. Color, 102 min. 1995.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -156,19 +156,19 @@ Frayn, Michael. *Copenhagen*. Methuen Drama, 1998. ISBN: 9780413724908.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "83fe49cf-c148-43e3-8757-0902b7aac7f2" "*Riding Giants*" %}}. Directed by Stacy Peralta. Color, 95 min. 2004.
+ [*Riding Giants*](http://www.imdb.com/title/tt0389326/). Directed by Stacy Peralta. Color, 95 min. 2004.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
- {{% resource_link "190035eb-b012-4c7a-a534-81d7b690ef1e" "*Slumdog Millionaire*" %}}. Directed by Danny Boyle. Color, 120 min. 2008.
+ [*Slumdog Millionaire*](http://www.imdb.com/title/tt1010048/). Directed by Danny Boyle. Color, 120 min. 2008.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Ready, D. A. "{{% resource_link "9cce7994-82e6-4710-bbed-80f486b9f4c7" "How Storytelling Builds Next Generation Leaders" %}}." *MIT Sloan Management Review*, July 2002.
+Ready, D. A. "[How Storytelling Builds Next Generation Leaders](http://sloanreview.mit.edu/article/how-storytelling-builds-nextgeneration-leaders/)." *MIT Sloan Management Review*, July 2002.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
