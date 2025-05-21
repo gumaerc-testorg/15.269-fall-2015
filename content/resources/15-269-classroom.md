@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class sessions were held in this classroom in Fall 2015.
-file: /ol-ocw-studio-app/courses/15-269-leadership-stories-literature-ethics-and-authority-fall-2015/95d320f7def1617fd6b00574a37f5707_15-269-classroom.jpg
+file: /courses/15-269-leadership-stories-literature-ethics-and-authority-fall-2015/95d320f7def1617fd6b00574a37f5707_15-269-classroom.jpg
 file_size: 65925
 file_type: image/jpeg
 image_metadata:
